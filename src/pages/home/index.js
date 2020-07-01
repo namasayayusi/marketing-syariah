@@ -24,7 +24,7 @@ export default function SimpleContainer() {
         <div className={classes.bungkusUtama}>
           <Typography className={classes.textHallo}>Hallo!</Typography>
           <Typography className={classes.textSelamatDatang}>
-            Selamat Datang di dalam Aplikasi Silaturahmi Kami
+            Selamat Datang di dalam Aplikasi Marketing Syariah Kami
           </Typography>
 
           <div className={classes.bungkusMenuSatu}>
