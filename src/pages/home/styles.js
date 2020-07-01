@@ -47,7 +47,7 @@ export default makeStyles(theme => ({
     width: "100%"
   },
   paper: {
-    backgroundColor: "#7380F3",
+    backgroundColor: "#2FBEC6",
     paddingLeft: "20px",
     paddingRight: "20px",
     paddingTop: "16px",
