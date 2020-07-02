@@ -32,7 +32,7 @@ export default function SimpleContainer() {
               {/* ------ menu Artikel ------ */}
               <a
                 className={classes.decoration}
-                href="https://muslimgoonline.com/yuk-ngaji/artikel"
+                href="https://muslimgoonline.com/aplikasi-marketing-syariah/artikel"
               >
                 <div className={classes.paper}>
                   <img className={classes.gambar} src={Artikel} alt="Artikel" />
@@ -50,7 +50,7 @@ export default function SimpleContainer() {
               {/* ------ menu Event ------ */}
               <a
                 className={classes.decoration}
-                href="https://muslimgoonline.com/yuk-ngaji/event"
+                href="https://muslimgoonline.com/aplikasi-marketing-syariah/artikel"
               >
                 <div className={classes.paper}>
                   <img className={classes.gambar} src={Event} alt="Event" />
@@ -68,7 +68,7 @@ export default function SimpleContainer() {
               {/* ------ menu Donasi ------ */}
               <a
                 className={classes.decoration}
-                href="https://muslimgoonline.com/yuk-ngaji/donasi"
+                href="https://muslimgoonline.com/aplikasi-marketing-syariah/artikel"
               >
                 <div className={classes.paper}>
                   <img className={classes.gambar} src={Donasi} alt="Donasi" />
@@ -89,7 +89,7 @@ export default function SimpleContainer() {
               {/* ------ menu Jualan ------ */}
               <a
                 className={classes.decoration}
-                href="https://muslimgoonline.com/yuk-ngaji/jualan"
+                href="https://muslimgoonline.com/aplikasi-marketing-syariah/artikel"
               >
                 <div className={classes.paper}>
                   <img className={classes.gambar} src={Jualan} alt="Jualan" />
